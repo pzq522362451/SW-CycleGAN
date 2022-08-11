@@ -36,3 +36,4 @@ Note: All experiment were excecuted in Google colab with Tesla P100-PCIE-16GB GP
 ### Learning curve
 
 ## Ackonwledgements
+This work is partially financed by Portuguese funds through FCT – Foundation for Science and Technology, I.P., through IDMEC, under LAETA, project UIDB/50022/2020. This work has been carried out under the High Performance Computing Chair - a R&D infrastructure based at the University of Évora, endorsed by Hewlett Packard Enterprise (HPE), and involving a consortium of higher education institutions (University of Algarve, University of Évora, New University of Lisbon, and University of Porto), research centres (CIAC, CIDEHUS, CHRC), enterprises (HPE, ANIET, ASSIMAGRA, Cluster Portugal Mineral Resources, DECSIS, FastCompChem, GeoSense, GEOtek, Health Tech, Starkdata), and pub- lic/private organizations (Alentejo Tourism-ERT, KIPT Colab).
