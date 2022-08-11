@@ -17,4 +17,4 @@
 - Keras == 2.8.0
 
 Note: All experiment were excecuted in Google colab with Tesla P100-PCIE-16GB GPU
-![alt text](https://miro.medium.com/max/1400/1*7oukapIBInsovpHkQB3QZg.jpeg)
+![alt text](https://miro.medium.com/max/14/1*7oukapIBInsovpHkQB3QZg.jpeg)
