@@ -17,3 +17,22 @@
 - Keras == 2.8.0
 
 Note: All experiment were excecuted in Google colab with Tesla P100-PCIE-16GB GPU ![alt text](https://colab.research.google.com/assets/colab-badge.svg)
+
+
+## File discription
+
+## Usage
+
+## Model description
+
+## Results on unconditional CycleGAN
+### t-SNE
+### MNIST visualization 
+### Learning curve
+
+## Results on conditional CycleGAN
+### t-SNE
+### MNIST visualization 
+### Learning curve
+
+## Ackonwledgements
