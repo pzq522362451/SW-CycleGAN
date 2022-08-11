@@ -16,5 +16,5 @@
 - Numpy == 1.21.6
 - Keras == 2.8.0
 
-Note: All experiment were excecuted in Google colab!(![alt text](https://miro.medium.com/max/50/1*7oukapIBInsovpHkQB3QZg.jpeg)) with Tesla P100-PCIE-16GB GPU
+Note: All experiment were excecuted in Google colab!([alt text](https://miro.medium.com/max/60/1*7oukapIBInsovpHkQB3QZg.jpeg)) with Tesla P100-PCIE-16GB GPU
 
