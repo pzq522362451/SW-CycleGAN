@@ -33,7 +33,12 @@ Note: All experiment were excecuted in Google colab with Tesla P100-PCIE-16GB GP
 ## Results on conditional CycleGAN
 ### t-SNE
 ### MNIST visualization 
+
+The results with swd is shown bellow:
 ![image](https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/swd.png)
+
+The results with wd is shown bellow:
+![image](https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/wd.png)
 ### Learning curve
 
 ## Ackonwledgements
