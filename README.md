@@ -55,7 +55,7 @@ The script with `.ipynb` contains all the experiments (four scenarios: wd/swd/wd
   
 |   | wd|swd|
 | ------------- | ------------- |------------- |
-| t-SNE| <img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/tsne_wd.png" width="360" height="360">|<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/tsne_swd.png" width="360" height="360"> |
+| t-SNE| <img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/tsne_wd.png" width="200" height="200">|<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/tsne_swd.png" width="300" height="300"> |
 
 </div>
 
