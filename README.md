@@ -50,7 +50,7 @@ The results with wd is shown bellow:
 ### Learning curve
 
 <div align=center>
-<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/gloss_wd.jpg" width="400" height="240"><img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/dloss_wd.jpg" width="400" height="240"><img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cycloss_wd.jpg" width="400" height="240">
+<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/gloss_wd.jpg" width="200*1.5" height="120*1.5"><img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/dloss_wd.jpg" width="200*1.5" height="120*1.5"><img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cycloss_wd.jpg" width="200*1.5" height="120*1.5">
 </div>
 
 
