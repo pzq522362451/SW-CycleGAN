@@ -24,9 +24,13 @@ Note: All experiment were excecuted in Google colab with Tesla P100-PCIE-16GB GP
 ## Usage
 
 ## Model description
+|  Architecture | Description|
+| ------------- | ------------- |
+|<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cyclegan_1.jpg" width="250" height="110">|sdfsdfsfdsdfs|
+|<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cyclegan_2.jpg" width="250" height="110">
+|asdadsasfaf|
 
-<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cyclegan_1.jpg" width="350" height="110">
-<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cyclegan_2.jpg" width="250" height="110">
+
 
 ## Results on conditional CycleGAN
 ### t-SNE
