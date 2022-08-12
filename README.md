@@ -50,12 +50,12 @@ The results with wd is shown bellow:
 ### Learning curve
 
 <div align=center>
-<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/gloss_wd.png" width="360" height="360"><img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/dloss_wd.png" width="360" height="360"><img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cycloss_wd.png" width="360" height="360">
+<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/gloss_wd.jpg" width="360" height="360"><img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/dloss_wd.jpg" width="360" height="360"><img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cycloss_wd.jpg" width="360" height="360">
 </div>
 
 
 <div align=center>
-<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/gloss_swd.png" width="360" height="360"><img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/dloss_swd.png" width="360" height="360"><img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cycloss_swd.png" width="360" height="360">
+<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/gloss_swd.jpg" width="360" height="360"><img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/dloss_swd.jpg" width="360" height="360"><img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cycloss_swd.jpg" width="360" height="360">
 </div>
 
 ## Ackonwledgements
