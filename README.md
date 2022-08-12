@@ -49,7 +49,7 @@ The results with wd is shown bellow:
 
 ### Learning curve
 
-<!-- <div align=center>
+<div align=center>
 <img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/gloss_wd.png" width="360" height="360"><img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/dloss_wd.png" width="360" height="360"><img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cycloss_wd.png" width="360" height="360">
 </div>
 
@@ -57,6 +57,6 @@ The results with wd is shown bellow:
 <div align=center>
 <img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/gloss_swd.png" width="360" height="360"><img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/dloss_swd.png" width="360" height="360"><img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cycloss_swd.png" width="360" height="360">
 </div>
- -->
+
 ## Ackonwledgements
 This work is partially financed by Portuguese funds through FCT – Foundation for Science and Technology, I.P., through IDMEC, under LAETA, project UIDB/50022/2020. This work has been carried out under the High Performance Computing Chair - a R&D infrastructure based at the University of Évora, endorsed by Hewlett Packard Enterprise (HPE), and involving a consortium of higher education institutions (University of Algarve, University of Évora, New University of Lisbon, and University of Porto), research centres (CIAC, CIDEHUS, CHRC), enterprises (HPE, ANIET, ASSIMAGRA, Cluster Portugal Mineral Resources, DECSIS, FastCompChem, GeoSense, GEOtek, Health Tech, Starkdata), and pub- lic/private organizations (Alentejo Tourism-ERT, KIPT Colab).
