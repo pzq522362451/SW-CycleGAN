@@ -20,8 +20,22 @@ Note: All experiment were excecuted in Google colab with Tesla P100-PCIE-16GB GP
 
 
 ## File discription
+* `--CycleGAN`: THe model we build the CycleGAN. It is a class and based on Keras.
+* `--GAN_Utils`: Functions about how to save the model and how to produce synthetic examples.
+* `--InstanceNormalization`: Instance Normalization implemetation based on Keras
+* `--NN_Utils`:Build model structures include squeeze-and-excitation mechanism, CNN, ResNet, Modified ResNet, the discriminator and generator (both in conditional and unconditional cases).
+* `--Set_seed`: Set random seeds for reproducible implementation.
+* `--Utils_MNIST`: Downlaod and preprocessing MNIST dataset.
+* `--swd_tf2`: The sliced Wasserstein distance implementation in tensorflow 2.0.
+* `--t-SNE_Utils`: t-SNE package for 2-D visualization.
+* `--Main`: The main file to run these pexperiments.
+
+## Implementation details
+- The overall expeiments include swd,wd,swd-sem and wd-sem are included in Run Main.ipynb. Directly use this file can get the results. Note that users should change the directory to successfully run this code.
+-Hyperparameter settings: Adam optimizer is used with learning rate of * `2e-4` in both the generator and the discriminator;The batch size is * `32`, total iteration is 10,000. LABDA (Weight of cycle consistency loss) is * `10`. Random projection in SWD is * `32`.
 
 ## Usage
+The script with .ipynb contains all the experiments (four scenarios: wd/swd/wd-sem/swd-sem) shown here. 
 
 ## Model description
 <div align=center>
