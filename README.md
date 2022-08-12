@@ -25,17 +25,14 @@ Note: All experiment were excecuted in Google colab with Tesla P100-PCIE-16GB GP
 
 ## Model description
 
-## Results on unconditional CycleGAN
-### t-SNE
-### MNIST visualization 
-### Learning curve
-
 ## Results on conditional CycleGAN
 ### t-SNE
 
-
 <div align=center>
-<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/tsne_wd.png" width="360" height="360"><img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/tsne_swd.png" width="360" height="360">
+| Loss type  | t-SNE|
+| ------------- | ------------- |
+| wd| <img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/tsne_wd.png" width="360" height="360">|
+| swd| <img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/tsne_swd.png" width="360" height="360"> |
 </div>
 
 
@@ -50,7 +47,7 @@ The results with wd is shown bellow:
 ### Learning curve
 <div align=center>
   
-| First Header  | generator loss| discriminator loss | cycle consistency loss |
+| Loss type  | Generator loss| Discriminator loss | Cycle consistency loss |
 | ------------- | ------------- |   -------------    | -------------          |
 | Wasserstein loss  | <img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/gloss_wd.jpg" width="200" height="120"> |<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/dloss_wd.jpg" width="200" height="120">|<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cycloss_wd.jpg" width="200" height="120">|
 | Sliced Wasserstein loss  | <img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/gloss_swd.jpg" width="200" height="120">  |<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/dloss_swd.jpg" width="200" height="120"> |<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cycloss_swd.jpg" width="200" height="120"> |
