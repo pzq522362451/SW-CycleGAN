@@ -31,7 +31,7 @@ Note: All experiment were excecuted in Google colab with Tesla P100-PCIE-16GB GP
 * `--Main`: The main file to run these pexperiments.
 
 ## Implementation details
-- The overall expeiments include swd,wd,swd-sem and wd-sem are included in Run Main.ipynb. Directly use this file can get the results. Note that users should change the directory to successfully run this code.
+- The overall experiments include swd,wd,swd-sem and wd-sem are included in Run Main.ipynb. Directly using this file can get the results. Note that users should change the directory to successfully run this code.
 -Hyperparameter settings: Adam optimizer is used with learning rate of `2e-4` in both the generator and the discriminator;The batch size is `32`, total iteration is 10,000. LABDA (Weight of cycle consistency loss) is `10`. Random projection in SWD is `32`.
 
 ## Usage
