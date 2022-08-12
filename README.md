@@ -48,7 +48,10 @@ The results with wd is shown bellow:
 ![image](https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/wd.png)
 
 ### Learning curve
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 <div align=center>
 <img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/gloss_wd.jpg" width="200" height="120"><img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/dloss_wd.jpg" width="200" height="120"><img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cycloss_wd.jpg" width="200" height="120">
 </div>
