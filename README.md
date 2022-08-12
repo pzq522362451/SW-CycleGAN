@@ -35,7 +35,7 @@ Note: All experiment were excecuted in Google colab with Tesla P100-PCIE-16GB GP
 -Hyperparameter settings: Adam optimizer is used with learning rate of `2e-4` in both the generator and the discriminator;The batch size is `32`, total iteration is 10,000. LABDA (Weight of cycle consistency loss) is `10`. Random projection in SWD is `32`.
 
 ## Usage
-The script with .ipynb contains all the experiments (four scenarios: wd/swd/wd-sem/swd-sem) shown here. 
+The script with '.ipynb' contains all the experiments (four scenarios: wd/swd/wd-sem/swd-sem).
 
 ## Model description
 <div align=center>
