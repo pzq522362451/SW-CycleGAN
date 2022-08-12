@@ -27,8 +27,7 @@ Note: All experiment were excecuted in Google colab with Tesla P100-PCIE-16GB GP
 |  Architecture | Description|
 | ------------- | ------------- |
 |<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cyclegan_1.jpg" width="250" height="110">|The first part of CycleGAN receives a domain 𝐴 image <br>together with a label 𝑦𝐵 ∈ {1, 2, ..., 9} at the generator G12 <br>to generate the corresponding 𝑦𝐵 domain image. Generated domain 𝐵 <br>images will compare with real domain 𝐵 images in the discriminator D12. <br>At the same time, generated domain 𝐵 images and labels 𝑦𝐴 will be sent to <br>the other generator G21 to reconstruct domain 𝐴 images.|
-
-<!-- |<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cyclegan_2.jpg" width="250" height="110">|The second part of CycleGAN receives a domain 𝐵 image together with a label 𝑦𝐴 ∈ {0, 0, ..., 0} at the generator G21 to generate the corresponding 𝑦𝐴 domain image. Generated domain 𝐴 images will compare with real domain 𝐴 images in the discriminator D21. At the same time, generated domain 𝐴 images and labels 𝑦𝐵 will be sent to the other generator G12 to reconstruct domain 𝐵 images.| -->
+<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cyclegan_2.jpg" width="250" height="110">|The first part of CycleGAN receives a domain 𝐴 image <br>together with a label 𝑦𝐵 ∈ {1, 2, ..., 9} at the generator G12 <br>to generate the corresponding 𝑦𝐵 domain image. Generated domain 𝐵 <br>images will compare with real domain 𝐵 images in the discriminator D12. <br>At the same time, generated domain 𝐵 images and labels 𝑦𝐴 will be sent to <br>the other generator G21 to reconstruct domain 𝐴 images.|
 
 
 
