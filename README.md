@@ -50,7 +50,7 @@ The results with wd is shown bellow:
 ### Learning curve
 | First Header  | generator loss| discriminator loss | cycle consistency loss |
 | ------------- | ------------- |   -------------    | -------------          |
-| Content Cell  | <img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/gloss_wd.jpg" width="200" height="120"> |<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/dloss_wd.jpg" width="200" height="120">|
+| Content Cell  | <img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/gloss_wd.jpg" width="200" height="120"> |<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/dloss_wd.jpg" width="200" height="120">|<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cycloss_wd.jpg" width="200" height="120">|
 
 
 
