@@ -50,14 +50,8 @@ The results with wd is shown bellow:
 ### Learning curve
 | First Header  | generator loss| discriminator loss | cycle consistency loss |
 | ------------- | ------------- |   -------------    | -------------          |
-| Content Cell  | <img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/gloss_wd.jpg" width="200" height="120"> |<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/dloss_wd.jpg" width="200" height="120">|<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cycloss_wd.jpg" width="200" height="120">|
-| Content Cell  | Content Cell  |Content Cell  |Content Cell  |
-
-
-
-<div align=center>
-<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/gloss_swd.jpg" width="200" height="120"><img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/dloss_swd.jpg" width="200" height="120"><img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cycloss_swd.jpg" width="200" height="120">
-</div>
+| WD  | <img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/gloss_wd.jpg" width="200" height="120"> |<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/dloss_wd.jpg" width="200" height="120">|<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cycloss_wd.jpg" width="200" height="120">|
+| SWD  | <img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/gloss_swd.jpg" width="200" height="120">  |<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/dloss_swd.jpg" width="200" height="120"> |<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cycloss_swd.jpg" width="200" height="120"> |
 
 ## Ackonwledgements
 This work is partially financed by Portuguese funds through FCT – Foundation for Science and Technology, I.P., through IDMEC, under LAETA, project UIDB/50022/2020. This work has been carried out under the High Performance Computing Chair - a R&D infrastructure based at the University of Évora, endorsed by Hewlett Packard Enterprise (HPE), and involving a consortium of higher education institutions (University of Algarve, University of Évora, New University of Lisbon, and University of Porto), research centres (CIAC, CIDEHUS, CHRC), enterprises (HPE, ANIET, ASSIMAGRA, Cluster Portugal Mineral Resources, DECSIS, FastCompChem, GeoSense, GEOtek, Health Tech, Starkdata), and pub- lic/private organizations (Alentejo Tourism-ERT, KIPT Colab).
