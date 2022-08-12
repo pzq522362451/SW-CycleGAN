@@ -25,8 +25,8 @@ Note: All experiment were excecuted in Google colab with Tesla P100-PCIE-16GB GP
 
 ## Model description
 
-<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cyclegan_1.jpg" width="200" height="180">
-<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cyclegan_2.jpg" width="200" height="160">
+<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cyclegan_1.jpg" width="400" height="110">
+<img src="https://github.com/pzq522362451/SW-CycleGAN/blob/main/Results/cyclegan_2.jpg" width="400" height="110">
 
 ## Results on conditional CycleGAN
 ### t-SNE
