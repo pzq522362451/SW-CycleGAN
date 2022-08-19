@@ -2,7 +2,7 @@
 
 ## Cycle consistency generative adversarial networks with Sliced Wasserstein distance
 Code accompanying the paper "Sliced Wasserstein cycle consistency generative adversarial networks for fault data augmentation of an industrial robot" by Ziqiang Pu, Diego Cabrera, Chuan Li and José Valente de Oliveira (Ready to be submitted for publication).
--  Tensorflow 2.X implementation
+-  Tensorflow 2.0 implementation
 -  Inspired by Deshpande $et$ $al$. [sliced Wassetstein generator] (https://openaccess.thecvf.com/content_cvpr_2018/papers/Deshpande_Generative_Modeling_Using_CVPR_2018_paper.pdf), the sliced wasserstein distance (SWD) gains less computation and fast convergence than Wasserstein distance (WD). The code for SWD is shown in (https://github.com/ishansd/swg).
 -  This repository contains reprodce of several experiments mentioned in the paper
 -  Both unconditional and conditional SW-CycleGAN were verified with the MNIST handwritting dataset.
