@@ -1,7 +1,7 @@
 # SW-CycleGAN
 
 ## Cycle consistency generative adversarial networks with Sliced Wasserstein distance
-
+Code accompanying the paper "Sliced Wasserstein cycle consistency generative adversarial networks for fault data augmentation of an industrial robot" by Ziqiang Pu, Diego Cabrera, Chuan Li and José Valente de Oliveira (Ready to be submitted for publication).
 -  Tensorflow 2.X implementation
 -  Inspired by Deshpande $et$ $al$. [sliced Wassetstein generator] (https://openaccess.thecvf.com/content_cvpr_2018/papers/Deshpande_Generative_Modeling_Using_CVPR_2018_paper.pdf), the sliced wasserstein distance (SWD) gains less computation and fast convergence than Wasserstein distance (WD). The code for SWD is shown in (https://github.com/ishansd/swg).
 -  This repository contains reprodce of several experiments mentioned in the paper
@@ -32,7 +32,7 @@ Note: All experiment were excecuted in Google colab with Tesla P100-PCIE-16GB GP
 
 ## Implementation details
 - The overall experiments include swd,wd,swd-sem and wd-sem are included in Run Main.ipynb. Directly using this file can get the results. Note that users should change the directory to successfully run this code.
--Hyperparameter settings: Adam optimizer is used with learning rate of `2e-4` in both the generator and the discriminator;The batch size is `32`, total iteration is 10,000. LABDA (Weight of cycle consistency loss) is `10`. Random projection in SWD is `32`.
+- Hyperparameter settings: Adam optimizer is used with learning rate of `2e-4` in both the generator and the discriminator;The batch size is `32`, total iteration is 10,000. LABDA (Weight of cycle consistency loss) is `10`. Random projection in SWD is `32`.
 
 ## Usage
 The script with `.ipynb` contains all the experiments (four scenarios: wd/swd/wd-sem/swd-sem).
